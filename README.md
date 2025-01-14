@@ -98,6 +98,3 @@ The following mathematical functions are supported:
 
 ---
 
-## Authors
-
-- Jalluri Achutha Sai Vinay
